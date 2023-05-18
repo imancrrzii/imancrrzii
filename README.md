@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/iman carrazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iman carrazi" height="30" width="40" /></a>
-<a href="https://kaggle.com/iman carrazi syamsidi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="iman carrazi syamsidi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/iman-carrazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iman carrazi" height="30" width="40" /></a>
+<a href="https://kaggle.com/iman-carrazi-syamsidi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="iman carrazi syamsidi" height="30" width="40" /></a>
 <a href="https://instagram.com/imncrrzii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imncrrzii" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@imancarrazi777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@imancarrazi777" height="30" width="40" /></a>
 </p>
