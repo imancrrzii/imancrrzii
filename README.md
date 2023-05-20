@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/iman-carrazi-418570252" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iman carrazi" width="40px" style="padding-right:10px;" /></a>
+<a href="https://linkedin.com/in/iman-carrazi" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iman carrazi" width="40px" style="padding-right:10px;" /></a>
 <a href="https://instagram.com/imncrrzii" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imncrrzii" width="40px" style="padding-right:10px;" /></a>
 <a href="https://www.hackerrank.com/imancarrazi777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@imancarrazi777" width="40px" style="padding-right:10px;" /></a>
 </p>
