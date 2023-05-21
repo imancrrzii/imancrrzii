@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on [Srifoton 2023](https://github.com/HMIF-UNSRI/srifoton2023-be.git) and [HMIF Websites](https://github.com/HMIF-UNSRI/websitehmif-be.git)
 
 
-- ⚡ Fun fact **I think I'm not as good as you think**
+- ⚡ Fun fact **I think I'm not as good as you think** [try this](https://simple-birthday-timer.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
