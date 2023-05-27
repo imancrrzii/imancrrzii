@@ -5,10 +5,10 @@
 
 - 🌱 I’m currently learning **Laravel and React**
 
-- 👯 I’m looking to collaborate on [Srifoton 2023](https://github.com/HMIF-UNSRI/srifoton2023-be.git) and [HMIF Websites](https://github.com/HMIF-UNSRI/websitehmif-be.git) [Portofolio](https://iman-portfolio.netlify.app/)
+- 👯 I’m looking to collaborate on [Srifoton 2023](https://github.com/HMIF-UNSRI/srifoton2023-be.git) and [HMIF Websites](https://github.com/HMIF-UNSRI/websitehmif-be.git) 
 
 
-- ⚡ Fun fact **I think I'm not as good as you think**
+- ⚡ Fun fact **I think I'm not as good as you think** [don't click on this](https://iman-portfolio.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
