@@ -3,7 +3,7 @@
 **`Colleger (Student)`**
 <h3 align="center">An Informatics Engineering Junior Student at Sriwijaya University</h3>
 
-- 🌱 I’m currently learning **Laravel and React**
+- 🌱 I’m currently learning **Data**
 
 - 👯 I’m looking to collaborate on [Srifoton 2023](https://github.com/HMIF-UNSRI/srifoton2023-be.git) and [HMIF Websites](https://github.com/HMIF-UNSRI/websitehmif-be.git) 
 
