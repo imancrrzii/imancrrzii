@@ -29,7 +29,7 @@ maintaining a 98% code accuracy rate and staying abreast of the latest industry 
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
   <!--LinkedIn-->
-  <a href="https://www.linkedin.com/in/dewa-sheva-dzaky/" target="_blank">
+  <a href="https://www.linkedin.com/in/iman-carrazi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Iman Carrazi Syamsidi" />
   </a>
   <!--Instagram-->
