@@ -1,7 +1,7 @@
 # 🏄‍♂️ Iman Carrazi Syamsidi
 
 **`Colleger (Student)`**
-<h3 align="center">As a sixth-semester Informatics student at Sriwijaya University, I have successfully developed several web development
+<h3 align="left">As a sixth-semester Informatics student at Sriwijaya University, I have successfully developed several web development
 initiatives focusing on frontend and backend, managing project schedules effectively, reducing delivery time by 25% while
 maintaining a 98% code accuracy rate and staying abreast of the latest industry trends.</h3>
 
