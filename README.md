@@ -11,7 +11,9 @@
         </samp>
 </h3>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B246F3&random=false&width=435&lines=Hello+World!!!;I+am+Iman+Carrazi+Syamsidi" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B246F3&random=false&width=435&lines=Hello+World!!!;I+am+Iman+Carrazi+Syamsidi" alt="Typing SVG" /></a><br/>
+
+[![](https://img.shields.io/badge/website-4C42FF?style=for-the-badge&logo=About.me&logoColor=white)](https://my-portfolio-v2-ten-pink.vercel.app/)
 
 
 <p align="left"> 
@@ -40,6 +42,7 @@ maintaining a 98% code accuracy rate and staying abreast of the latest industry 
   <a href="mailto:imancarrazi777@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+
 
 <br/>
 <br/>
